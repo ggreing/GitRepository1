@@ -4,18 +4,18 @@ A brief description of what this project does and who it's for.
 
 http://logo_link
 
-##Badges
+## Badges
 
 Include some badges such as build status, test coverage, etc.
 
-###Features
+### Features
 
 Ÿ Feature 1
 Ÿ Feature 2
 Ÿ Feature 3
 ---------------------------------------
 
-##Installation
+## Installation
 
     git clone https://github.com/username/projectname.git
     cd projectname
