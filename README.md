@@ -12,9 +12,9 @@ Include some badges such as build status, test coverage, etc
 
 ### Features
 
-Ÿ Feature 1
-Ÿ Feature 2
-Ÿ Feature 3
+* Feature 1
+* Feature 2
+* Feature 3
 ---------------------------------------
 
 ## Installation
