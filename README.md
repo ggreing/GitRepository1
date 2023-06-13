@@ -6,7 +6,9 @@ A brief description of what this project does and who it's for.
 
 ## Badges
 
-Include some badges such as build status, test coverage, etc.
+Include some badges such as build status, test coverage, etc
+
+<http://bandge_link>
 
 ### Features
 
